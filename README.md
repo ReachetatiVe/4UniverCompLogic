@@ -1,2 +1,2 @@
-# 4UniverCompLogic
-Repository4univer(
+# 4UniverCompAlgebra
+Комп. алгебра 2181 Мещанинов
